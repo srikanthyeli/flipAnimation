@@ -1,0 +1,423 @@
+.heading {
+  color: rgba(88, 98, 69, 1);
+  font-family: "Sail";
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 46.16px;
+}
+.app-container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  min-width: 100vw;
+  min-height: 100vh;
+  align-items: center;
+}
+.nav-item {
+  margin-left: 15px;
+}
+.responsive-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  height: 10%;
+}
+.nav-container {
+  display: flex;
+  flex-direction: row;
+
+  color: rgba(88, 98, 69, 1);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 23.12px;
+  font-family: "Jost";
+  list-style-type: none;
+}
+.wedding-home {
+  background-image: url("https://res.cloudinary.com/dexswe6e0/image/upload/v1711553638/title-flower-five_1_uytumj.png");
+  min-width: 1474px;
+  min-height: 848px;
+  top: 88px;
+  left: 83px;
+  gap: 0px;
+  opacity: 0px;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.heroname {
+  font-family: Sail;
+  font-size: 62px;
+  font-weight: 400;
+  line-height: 71.55px;
+
+  color: rgba(0, 0, 0, 1);
+}
+.hero-photo {
+  width: 456px;
+  height: 572px;
+  top: 262px;
+  left: 766px;
+  gap: 0px;
+  opacity: 0px;
+  align-self: center;
+  margin-left: 300px;
+}
+.flower {
+  width: 140px;
+  height: 49px;
+  top: 533px;
+  left: 471px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 100px;
+}
+.para {
+  font-family: Jost;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28.9px;
+  text-align: center;
+  margin-top: 0px;
+}
+.list-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.date {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+.para-1 {
+  font-family: Jost;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 23.12px;
+  text-align: center;
+  margin-top: 0px;
+}
+.days {
+  font-family: Sail;
+  font-size: 62px;
+  font-weight: 400;
+  line-height: 71.55px;
+  text-align: center;
+  color: rgba(88, 98, 69, 1);
+}
+.wedding-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin-left: 100px;
+  content: border-box;
+  margin-top: 300px;
+}
+.couple-image {
+  width: 302px;
+  height: 422px;
+  top: 974px;
+  left: 566px;
+  gap: 0px;
+  opacity: 0px;
+}
+.wedding-names {
+  display: flex;
+  width: 80%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+.details {
+  width: 400px;
+  height: 300px;
+  text-align: center;
+  align-self: center;
+}
+.frame {
+  background-image: url("https://res.cloudinary.com/dexswe6e0/image/upload/v1711557796/story-shape-6_1_vixloq.png");
+  width: 400px;
+  height: 400px;
+  top: -1294px;
+  left: 8350px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.i-frame {
+  background-image: url("https://res.cloudinary.com/dexswe6e0/image/upload/v1711557796/story-shape-6_1_vixloq.png");
+  width: 400px;
+  height: 400px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title {
+  font-family: Sail;
+  font-size: 62px;
+  font-weight: 400;
+  line-height: 71.55px;
+  text-align: center;
+  color: rgba(0, 0, 0, 1);
+  font-style: oblique;
+}
+.frame-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.RSVP {
+  background-image: url("https://res.cloudinary.com/dexswe6e0/image/upload/v1711559701/Rectangle_227_kupqi1.png");
+  min-width: 1318px;
+  min-height: 705px;
+  top: 2480px;
+  left: 61px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-size: cover;
+  padding: 20px;
+}
+.form-container {
+  background-color: rgba(255, 255, 255, 1);
+  width: 30%;
+  margin-left: 20px;
+  width: 545px;
+  height: 599px;
+  top: 2531px;
+  left: 160px;
+  gap: 0px;
+  opacity: 0px;
+  padding: 20px;
+}
+.form-heading {
+  font-family: Sail;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 55.39px;
+  text-align: center;
+}
+.label-name {
+  font-family: Jost;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 23.12px;
+  text-align: left;
+  margin-bottom: 50px;
+}
+.btn-1 {
+  background: rgba(88, 98, 69, 1);
+  width: 141px;
+  height: 43px;
+  top: 3030px;
+  left: 212px;
+  gap: 0px;
+  color: white;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin-top: 20px;
+  opacity: 0px;
+}
+.line {
+  width: 441px;
+  height: 0px;
+  top: 2743px;
+  left: 212px;
+  gap: 0px;
+  margin-top: 20px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+}
+.where-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.reception-image {
+  width: 316px;
+  height: 386px;
+  top: 3409px;
+  left: 155px;
+  gap: 0px;
+  opacity: 0px;
+}
+.recep-title {
+  font-family: Sail;
+  font-size: 62px;
+  font-weight: 400;
+  line-height: 71.55px;
+  text-align: center;
+}
+.rep-head {
+  font-family: Sail;
+  font-size: 48px;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 1);
+}
+.time-place {
+  font-family: Jost;
+  font-size: 18px;
+  font-weight: 400;
+  color: rgba(200, 168, 152, 1);
+}
+.recep-content {
+  font-family: Jost;
+  font-size: 20px;
+  font-weight: 400;
+
+  text-align: center;
+  color: rgba(92, 92, 92, 1);
+}
+.wrap-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.reception-container {
+  width: 300px;
+  height: 200px;
+}
+.map-image {
+  margin-top: 40px;
+}
+.bride-name {
+  font-family: Sail;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 55.39px;
+  text-align: center;
+  color: rgba(0, 0, 0, 1);
+}
+.para-2 {
+  font-family: Jost;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28.9px;
+  text-align: right;
+  color: rgba(92, 92, 92, 1);
+}
+.footer-container {
+  background-color: rgba(45, 36, 32, 1);
+  width: 100%;
+  height: 50vh;
+  background-size: cover;
+  display: flex;
+  text-align: center;
+  flex-direction: row;
+}
+.flower-image {
+  width: 200px;
+  height: 130px;
+
+  align-self: flex-end;
+}
+.para-4 {
+  font-family: Jost;
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 34.68px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  margin-top: 30px;
+  margin-bottom: 30px;
+  align-self: center;
+  width: 50%;
+}
+.content-continer {
+  display:flex;
+  flex-direction:column;
+  margin-top:40px;
+}
+.nav-container-1 {
+  display: flex;
+  flex-direction: row;
+  align-self:center;
+  color: rgba(88, 98, 69, 1);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 23.12px;
+  font-family: "Jost";
+  list-style-type: none;
+}
+.flower-mage-2 {
+  width: 200px;
+  height: 130px;
+
+  align-self: flex-start;
+}
+.nav-item-1 {
+  font-family: Jost;
+font-size: 20px;
+font-weight: 500;
+line-height: 28.9px;
+text-align: center;
+color:rgba(255, 255, 255, 1);
+margin-left:20px;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.flip-card {
+  background-color: transparent;
+  perspective: 1000px;
+  display:flex;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 300px;
+  height: 200px;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+  display:flex;
+  flex-direction: row;
+}
+
+.flip-card:hover .flip-card-inner, .flip-card.flip .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  color: black;
+}
+
+.flip-card-back {
+  background-color: #564f56;
+  color: white;
+  transform: rotateY(180deg);
+}
+.album-content{
+  display:flex;
+  
+}
